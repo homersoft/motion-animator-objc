@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/homersoft/motion-interchange-objc.git", revision: "197849e83f37aeab85ee172ba93cca1731d090a5")
+        .package(url: "https://github.com/homersoft/motion-interchange-objc.git", revision: "331347547cc5a42273ce17620630c3df5cf9ff82")
     ],
     targets: [
         .target(
