@@ -14,11 +14,11 @@
  limitations under the License.
  */
 
-#import "MDMMotionAnimator.h"
+#import "MotionAnimator/MDMMotionAnimator.h"
 
 #import <UIKit/UIKit.h>
 
-#import "CATransaction+MotionAnimator.h"
+#import "MotionAnimator/CATransaction+MotionAnimator.h"
 #import "private/CABasicAnimation+MotionAnimator.h"
 #import "private/MDMAnimationRegistrar.h"
 #import "private/MDMUIKitValueCoercion.h"

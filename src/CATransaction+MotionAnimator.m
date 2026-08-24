@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "CATransaction+MotionAnimator.h"
+#import "MotionAnimator/CATransaction+MotionAnimator.h"
 
 static NSString *const kTimeScaleFactorKey = @"mdm_timeScaleFactor";
 

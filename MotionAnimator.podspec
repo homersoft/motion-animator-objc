@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "10.0"
   s.requires_arc = true
 
-  s.public_header_files = "src/*.h"
-  s.source_files = "src/*.{h,m,mm}", "src/private/*.{h,m,mm}"
+  s.public_header_files = "src/include/MotionAnimator/*.h"
+  s.source_files = "src/*.m", "src/include/MotionAnimator/*.h", "src/private/*.{h,m,mm}"
 
   s.dependency "MotionInterchange", "~> 4.0"
 end

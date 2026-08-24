@@ -17,7 +17,7 @@
 #import "CABasicAnimation+MotionAnimator.h"
 
 #import "CAMediaTimingFunction+MotionAnimator.h"
-#import "MDMAnimatableKeyPaths.h"
+#import "MotionAnimator/MDMAnimatableKeyPaths.h"
 
 #import <UIKit/UIKit.h>
 
