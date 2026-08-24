@@ -16,8 +16,8 @@
 
 #import "MDMBlockAnimations.h"
 
-#import "MDMMotionAnimator.h"
-#import "MDMAnimatableKeyPaths.h"
+#import "MotionAnimator/MDMMotionAnimator.h"
+#import "MotionAnimator/MDMAnimatableKeyPaths.h"
 
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
